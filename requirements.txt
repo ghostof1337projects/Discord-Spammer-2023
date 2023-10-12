@@ -1,0 +1,13 @@
+ctypes
+os
+platform
+socket
+sys
+time
+discord
+requests
+json
+re
+random
+discord.py
+tqdm
